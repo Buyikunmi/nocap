@@ -1,0 +1,744 @@
+Uri: https://cardnosh.com/
+File Name: C:\Downloaded Web Sites\cardnosh.com\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/favicon.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Comfortaa:300,400,700
+File Name: C:\Downloaded Web Sites\cardnosh.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100i,200,300,400,700,800,900
+File Name: C:\Downloaded Web Sites\cardnosh.com\css-1.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/owl-carousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/magnific-popup/magnific-popup.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/animate.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\animate.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/export.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\export.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/mediaelementplayer.min.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\mediaelementplayer.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/timeline.min.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\timeline.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/style.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\style.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/responsive.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/css/custom.css
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\custom.css
+Content Type: text/css
+
+Uri: https://api.whatsapp.com/send?phone=2348125349466&text=Hello Cardnosh, I want to trade with you.
+File Name: C:\Downloaded Web Sites\cardnosh.com\send.html
+Content Type: text/html
+
+Uri: https://techpoint.africa/2019/01/30/the-business-of-buying-and-selling-gift-cards-in-nigeria/
+File Name: C:\Downloaded Web Sites\cardnosh.com\2019\01\30\the-business-of-buying-and-selling-gift-cards-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://www.naijatechguide.com/2019/01/cardnosh-sell-gift-cards.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\2019\01\cardnosh-sell-gift-cards.html
+Content Type: text/html
+
+Uri: https://techcabal.com/2019/02/01/best-2-sites-to-sell-itunes-card-online-cardnosh-and-cardtonic/
+File Name: C:\Downloaded Web Sites\cardnosh.com\2019\02\01\best-2-sites-to-sell-itunes-card-online-cardnosh-and-cardtonic\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=2348125349466&text=Hello Cardnosh, I want to see payment proofs.
+File Name: C:\Downloaded Web Sites\cardnosh.com\send-1.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=2348125349466&text=Hello Cardnosh, I want to ask a question.
+File Name: C:\Downloaded Web Sites\cardnosh.com\send-2.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/register
+File Name: C:\Downloaded Web Sites\cardnosh.com\register.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/apple-gift-card.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\apple-gift-card.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/sell-amazon-gift-card.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\sell-amazon-gift-card.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/sell-gift-cards-for-cash.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\sell-gift-cards-for-cash.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/walmart-gift-card.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\walmart-gift-card.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/steam-gift-card.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\steam-gift-card.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/itunes-gift-cards.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\itunes-gift-cards.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/sitemap.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\sitemap.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-133536097-1
+File Name: C:\Downloaded Web Sites\cardnosh.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/logo1.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\logo1.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/02.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\02.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/04.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\04.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/01.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\01.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/images/icon/04.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\icon\04.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/images/icon/06.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\icon\06.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/images/icon/07.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\icon\07.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/images/icon/08.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\icon\08.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/cardnoshdpp.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\cardnoshdpp.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/js/jquery-min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\jquery-min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/popper.min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/canvas/canvas2.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\canvas\canvas2.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/all-plugins.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\all-plugins.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/timeline.min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\timeline.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/lib/canvasjs.min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\lib\canvasjs.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/lib/particles1.min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\lib\particles1.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/lib/app.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\lib\app.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/lib/stats.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\lib\stats.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/amcharts/amcharts.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\amcharts\amcharts.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/amcharts/serial.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\amcharts\serial.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/amcharts/export.min.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\amcharts\export.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/amcharts/none.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\amcharts\none.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/amcharts/pie.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\amcharts\pie.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/js/custom.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardnosh.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardnosh.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cardnosh.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://cardnosh.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cardnosh.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cardnosh.com/fonts/line-awesome.eot?v=1.1.
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\line-awesome.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardnosh.com/fonts/line-awesome.eot??v=1.1.
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\line-awesome-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardnosh.com/fonts/line-awesome.woff2?v=1.1.
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\line-awesome.woff2
+Content Type: font/woff2
+
+Uri: https://cardnosh.com/fonts/line-awesome.woff?v=1.1.
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\line-awesome.woff
+Content Type: font/woff
+
+Uri: https://cardnosh.com/fonts/line-awesome.ttf?v=1.1.
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\line-awesome.ttf
+Content Type: font/ttf
+
+Uri: https://cardnosh.com/fonts/line-awesome.svg?v=1.1.
+File Name: C:\Downloaded Web Sites\cardnosh.com\fonts\line-awesome.svg
+Content Type: image/svg+xml
+
+Uri: https://cardnosh.com/images/blog-controls.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\blog-controls.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/images/01.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\01.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/images/02.jpg
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cardnosh.com/css/02.jpg
+File Name: C:\Downloaded Web Sites\cardnosh.com\css\02.jpg
+Content Type: image/jpeg
+
+Uri: https://dailytrust.com/the-best-site-to-sell-itunes-and-amazon-cards-cardnosh
+File Name: C:\Downloaded Web Sites\cardnosh.com\the-best-site-to-sell-itunes-and-amazon-cards-cardnosh.html
+Content Type: text/html
+
+Uri: https://www.naijaloaded.com.ng/content/where-to-sell-itunes-card-and-amazon-card-cardnosh-or-cardtonic
+File Name: C:\Downloaded Web Sites\cardnosh.com\content\where-to-sell-itunes-card-and-amazon-card-cardnosh-or-cardtonic.html
+Content Type: text/html
+
+Uri: https://www.informationng.com/2019/02/how-much-can-you-sell-gift-cards-in-naira-best-rates-at-cardnosh.html
+File Name: C:\Downloaded Web Sites\cardnosh.com\2019\02\how-much-can-you-sell-gift-cards-in-naira-best-rates-at-cardnosh.html
+Content Type: text/html
+
+Uri: http://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\cardnosh.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/comments/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.css?ver=7.5.4
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\theme-tools\compat\twentysixteen.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\css\dist\block-library\theme.min.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-content/themes/twentysixteen/style.css?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\themes\twentysixteen\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Merriweather:400%2C700%2C900%2C400italic%2C700italic%2C900italic|Montserrat:400%2C700|Inconsolata:400&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\cardnosh.com\css-2.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\_inc\genericons\genericons\genericons.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-content/themes/dansal/style.css?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\themes\dansal\style.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-content/themes/twentysixteen/css/blocks.css?ver=20181230
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\themes\twentysixteen\css\blocks.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=7.5.4
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://cardnosh.com/blog/wp-json/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://cardnosh.com/blog/wp-content/uploads/2019/01/favicon.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\uploads\2019\01\favicon.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/sell-your-gift-cards-for-cash-swap-trade-and-sell/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\sell-your-gift-cards-for-cash-swap-trade-and-sell\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/author/cardnosh/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\author\cardnosh\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/learn-about-sell-itunes-gift-card-and-how-to-sell-them-for-cash/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\learn-about-sell-itunes-gift-card-and-how-to-sell-them-for-cash\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/tips-for-walmart-gift-card-exchange-for-cash/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\tips-for-walmart-gift-card-exchange-for-cash\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/how-to-sell-itunes-gift-card-with-ease/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\how-to-sell-itunes-gift-card-with-ease\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/tips-on-how-to-sell-itunes-gift-card-online/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\tips-on-how-to-sell-itunes-gift-card-online\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/exchange-itunes-gift-card-for-money-know-its-advantages/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\exchange-itunes-gift-card-for-money-know-its-advantages\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/top-7-secure-ways-to-sell-gift-cards-online-for-instant-cash/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\top-7-secure-ways-to-sell-gift-cards-online-for-instant-cash\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/steam-gift-card-online-how-they-work/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\steam-gift-card-online-how-they-work\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/the-popularity-of-exchanging-itunes-gift-card-for-money/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\the-popularity-of-exchanging-itunes-gift-card-for-money\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/important-points-to-mind-while-exchanging-gift-cards-for-cash/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\important-points-to-mind-while-exchanging-gift-cards-for-cash\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/page/2/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-content/uploads/2019/01/cropped-logo1.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\uploads\2019\01\cropped-logo1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/dd94c665eeb915a0fb7121e1694fbcec?s=49&d=mm&r=g
+File Name: C:\Downloaded Web Sites\cardnosh.com\avatar\dd94c665eeb915a0fb7121e1694fbcec.png
+Content Type: image/jpeg
+
+Uri: https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202101
+File Name: C:\Downloaded Web Sites\cardnosh.com\wp-content\js\devicepx-jetpack.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\themes\twentysixteen\js\skip-link-focus-fix.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-content/themes/twentysixteen/js/functions.js?ver=20181230
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\themes\twentysixteen\js\functions.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-content/themes/dansal/js/common-scripts.js?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\themes\dansal\js\common-scripts.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-includes/js/wp-embed.min.js?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/e-202101.js
+File Name: C:\Downloaded Web Sites\cardnosh.com\e-202101.js
+Content Type: application/javascript
+
+Uri: https://secure.gravatar.com/avatar/dd94c665eeb915a0fb7121e1694fbcec?s=98&d=mm&r=g
+File Name: C:\Downloaded Web Sites\cardnosh.com\avatar\dd94c665eeb915a0fb7121e1694fbcec-1.png
+Content Type: image/jpeg
+
+Uri: https://www.instagram.com/cardnosh/
+File Name: C:\Downloaded Web Sites\cardnosh.com\cardnosh\index.htm
+Content Type: text/html
+
+Uri: https://web.facebook.com/cardnosh/?_rdc=1&_rdr
+File Name: C:\Downloaded Web Sites\cardnosh.com\cardnosh\index-1.htm
+Content Type: text/html
+
+Uri: https://wordpress.com/
+File Name: C:\Downloaded Web Sites\cardnosh.com\index-1.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\cardnosh.com\index-2.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot?
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.ttf
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons.ttf
+Content Type: font/ttf
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.svg
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons.svg
+Content Type: image/svg+xml
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/carousel/images/arrows.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\carousel\images\arrows.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/carousel/images/arrows-2x.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\carousel\images\arrows-2x.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\carousel\images\carousel-sprite.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite-2x.png?5
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\carousel\images\carousel-sprite-2x.png
+Content Type: image/png
+
+Uri: https://wordpress.com/i/noticons/Noticons.woff
+File Name: C:\Downloaded Web Sites\cardnosh.com\i\noticons\Noticons.woff
+Content Type: application/font-woff
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\jetpack\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\grav-share-sprite.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite-2x.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\images\grav-share-sprite-2x.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/sell-your-gift-cards-for-cash-swap-trade-and-sell/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\sell-your-gift-cards-for-cash-swap-trade-and-sell\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fsell-your-gift-cards-for-cash-swap-trade-and-sell%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fsell-your-gift-cards-for-cash-swap-trade-and-sell%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/wp-includes/js/comment-reply.min.js?ver=5.2.9
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/wp-content/plugins/akismet/_inc/form.js?ver=4.1
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\plugins\akismet\_inc\form.js
+Content Type: application/javascript
+
+Uri: https://cardnosh.com/blog/author/cardnosh/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\author\cardnosh\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/author/cardnosh/page/2/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\author\cardnosh\page\2\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/learn-about-sell-itunes-gift-card-and-how-to-sell-them-for-cash/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\learn-about-sell-itunes-gift-card-and-how-to-sell-them-for-cash\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Flearn-about-sell-itunes-gift-card-and-how-to-sell-them-for-cash%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Flearn-about-sell-itunes-gift-card-and-how-to-sell-them-for-cash%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/tips-for-walmart-gift-card-exchange-for-cash/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\tips-for-walmart-gift-card-exchange-for-cash\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Ftips-for-walmart-gift-card-exchange-for-cash%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Ftips-for-walmart-gift-card-exchange-for-cash%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/how-to-sell-itunes-gift-card-with-ease/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\how-to-sell-itunes-gift-card-with-ease\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fhow-to-sell-itunes-gift-card-with-ease%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fhow-to-sell-itunes-gift-card-with-ease%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/tips-on-how-to-sell-itunes-gift-card-online/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\tips-on-how-to-sell-itunes-gift-card-online\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Ftips-on-how-to-sell-itunes-gift-card-online%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Ftips-on-how-to-sell-itunes-gift-card-online%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/exchange-itunes-gift-card-for-money-know-its-advantages/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\exchange-itunes-gift-card-for-money-know-its-advantages\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fexchange-itunes-gift-card-for-money-know-its-advantages%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fexchange-itunes-gift-card-for-money-know-its-advantages%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/top-7-secure-ways-to-sell-gift-cards-online-for-instant-cash/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\top-7-secure-ways-to-sell-gift-cards-online-for-instant-cash\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Ftop-7-secure-ways-to-sell-gift-cards-online-for-instant-cash%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Ftop-7-secure-ways-to-sell-gift-cards-online-for-instant-cash%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/steam-gift-card-online-how-they-work/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\steam-gift-card-online-how-they-work\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fsteam-gift-card-online-how-they-work%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fsteam-gift-card-online-how-they-work%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/the-popularity-of-exchanging-itunes-gift-card-for-money/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\the-popularity-of-exchanging-itunes-gift-card-for-money\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fthe-popularity-of-exchanging-itunes-gift-card-for-money%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fthe-popularity-of-exchanging-itunes-gift-card-for-money%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/important-points-to-mind-while-exchanging-gift-cards-for-cash/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\important-points-to-mind-while-exchanging-gift-cards-for-cash\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/how-itunes-gift-card-is-exchanged-for-money/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\how-itunes-gift-card-is-exchanged-for-money\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fimportant-points-to-mind-while-exchanging-gift-cards-for-cash%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fimportant-points-to-mind-while-exchanging-gift-cards-for-cash%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/how-to-sell-gift-card-online-in-nigeria/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\how-to-sell-gift-card-online-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/cardnosh/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\cardnosh\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/tag/cardnosh/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\tag\cardnosh\index.htm
+Content Type: text/html
+
+Uri: https://cardnosh.com/blog/wp-content/uploads/2019/01/SELL-GIFT-CARDS.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\uploads\2019\01\SELL-GIFT-CARDS.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/uploads/2019/01/SELL-GIFT-CARDS-300x114.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\uploads\2019\01\SELL-GIFT-CARDS-300x114.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/wp-content/uploads/2019/01/SELL-GIFT-CARDS-768x292.png
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-content\uploads\2019\01\SELL-GIFT-CARDS-768x292.png
+Content Type: image/png
+
+Uri: https://cardnosh.com/blog/how-itunes-gift-card-is-exchanged-for-money/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\how-itunes-gift-card-is-exchanged-for-money\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fhow-itunes-gift-card-is-exchanged-for-money%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fhow-itunes-gift-card-is-exchanged-for-money%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/how-to-sell-gift-card-online-in-nigeria/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\how-to-sell-gift-card-online-in-nigeria\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fhow-to-sell-gift-card-online-in-nigeria%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fhow-to-sell-gift-card-online-in-nigeria%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/cardnosh/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\cardnosh\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fcardnosh%2F
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://cardnosh.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fcardnosh.com%2Fblog%2Fcardnosh%2F&format=xml
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://cardnosh.com/blog/tag/cardnosh/feed/
+File Name: C:\Downloaded Web Sites\cardnosh.com\blog\tag\cardnosh\feed\index.htm.rss
+Content Type: application/rss+xml
+

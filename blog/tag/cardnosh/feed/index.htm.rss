@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>cardnosh &#8211; Cardnosh</title>
+	<atom:link href="https://cardnosh.com/blog/tag/cardnosh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cardnosh.com/blog</link>
+	<description>Blog</description>
+	<lastBuildDate>Sun, 27 Jan 2019 09:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.9</generator>
+
+<image>
+	<url>https://cardnosh.com/blog/wp-content/uploads/2019/01/favicon.png</url>
+	<title>cardnosh &#8211; Cardnosh</title>
+	<link>https://cardnosh.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">165185185</site>	<item>
+		<title>Introducing Cardnosh</title>
+		<link>https://cardnosh.com/blog/cardnosh/</link>
+				<comments>https://cardnosh.com/blog/cardnosh/#respond</comments>
+				<pubDate>Sat, 26 Jan 2019 17:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[cardnosh]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cardnosh]]></category>
+
+		<guid isPermaLink="false">https://cardnosh.com/blog/?p=1</guid>
+				<description><![CDATA[<p><a href="https://cardnosh.com/">Cardnosh</a> is one of the best gift card trading platforms in Nigeria registered under Nigeria’s Corporate Affairs Commision with the name <a href="http://publicsearch.cac.gov.ng/ComSearch/index.php" target="_blank" rel="nofollow noopener">&#8216;Cardnosh Trading Services` and RC Number</a>. We have been in existence since 2016 trading gift cards and cryptocurrencies and offering amazing services to customers in Nigeria and beyond.</p>
+<p>On here,</p><a class="more-link" href="https://cardnosh.com/blog/cardnosh/">Continue Reading ...</a>]]></description>
+								<content:encoded><![CDATA[<p><a href="https://cardnosh.com/">Cardnosh</a> is one of the best gift card trading platforms in Nigeria <b>registered under Nigeria’s Corporate Affairs Commision</b> with the name <a href="http://publicsearch.cac.gov.ng/ComSearch/index.php" target="_blank" rel="nofollow noopener">&#8216;Cardnosh Trading Services` and RC Number</a>. We have been in existence since 2016 trading gift cards and cryptocurrencies and offering amazing services to customers in Nigeria and beyond.</p>
+<p>On here, you can Sell iTunes Gift Cards, Amazon Gift Cards, Walmart Gift Cards, Steam Wallet Gift Cards, Google Play Gift Cards, Target Cards and just any gift cards.</p>
+<p>We buy Physical Cards, Ecodes, big Denomination Cards, cards with receipts, cards without receipts, we also buy bitcoins and RMB, and <b>we pay in Naira within 5minutes</b>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://cardnosh.com/blog/cardnosh/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>

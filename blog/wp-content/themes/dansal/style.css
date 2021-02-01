@@ -1,0 +1,98 @@
+/*
+Theme Name:   Dansal
+Theme URI:    http://wpneon.com/dansal-wordpress-child-theme/
+Description:  Dansal theme is a Twenty Sixteen WordPress child theme. Dansal is a clean, simple and lightweight WordPress theme, featuring a front page with a complete post archive arranged by year rather than a traditional blog flow. It also sports fully customizable background colors for the sidebar and content, responsive design, social network links with icons, Demo: http://demo.wpneon.com/dansal/
+Author:       WPNeon
+Author URI:   http://wpneon.com
+Template:     twentysixteen
+Version:      1.0.4
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, full-width-template, custom-menu, custom-colors, editor-style, featured-images, sticky-post, threaded-comments, theme-options, blog, translation-ready
+Text Domain:  dansal
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+
+*/
+
+.header-container {margin-bottom:4%;}
+
+.site-title {font-size: 2em; }
+.site-title a {color:red !important; }
+
+.header-inner {margin: 0 auto;
+    max-width: 1320px;
+    position: relative;}
+
+.site-header {padding-top:0px !important; padding-bottom:0 !important;}
+.header-image {margin: 0 auto 4% auto;}
+
+.content-area, .content-single {float:none; margin:auto; margin-top:4%;}
+.content-single .post-thumbnail img {border-radius:10px; margin:auto;}
+img {border-radius: 5px;}
+
+.child-content p, .entry-content p{line-height:2.5em;}
+.archive-content p{line-height:2em;}
+
+/*.entry-footer {float:none !important;}
+.entry-content {float:none !important;} 
+*/
+h1.entry-title {text-align:center; margin-bottom:4%;}
+.child-footer, .child-content {float:none !important; width:100% !important;}
+.child-footer .byline, .child-footer .posted-on, .child-footer .cat-links, .child-footer .edit-links , .child-footer .avatar{display:inline !important; margin:0 1%; font-weight:bold;}
+ .child-footer {text-align:center;}
+ .child-footer { margin-bottom:4%;}
+ .child-footer .avatar {width:30px !important;}
+ 
+ .byline {display:block; margin-bottom: 0.5384615385em;}
+ .more-link {
+ border: 1px solid;
+    display: flow-root;
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 12px 10px;
+    font-size: 90%;
+    margin-top: 4%;
+	box-shadow:none !important;
+ }
+.widget-area li {list-style:none; font-size:14px; margin: 0 3px;
+    padding: 10px 0;
+   }
+.widget-area li  a {border-bottom:1px solid #f1f1f1;}
+   
+.genericon{ margin-right:5px;
+-webkit-font-smoothing: antialiased;
+   }
+ 
+.child-content ul li, .comment-content ul li {line-height:40px;} 
+ 
+ .wp-block-gallery .blocks-gallery-image figcaption, .wp-block-gallery .blocks-gallery-item figcaption {overflow:hidden;}
+
+
+
+ 
+@media screen and (min-width: 44.375em) {
+
+body:not(.custom-background-image):before, body:not(.custom-background-image):after {height:0px;}
+.entry-content ul, .entry-summary ul, .comment-content ul, .entry-content ol, .entry-summary ol, .comment-content ol {margin-left:20px;}
+
+}
+@media screen and (min-width: 61.5625em)
+{
+body.no-sidebar:not(.search-results) article:not(.type-page) .child-content {      width: 70% !important;
+    margin-left: 0px;
+    margin:auto; }
+body.no-sidebar:not(.search-results) article:not(.type-page) .child-footer { margin-left: 0;
+    width: 70% !important;
+    margin:  0 auto 4% auto;}
+	
+	.post-thumbnail { width:70%; margin:auto; margin-bottom: 2.625em;}
+	.format-aside .entry-title, .format-image .entry-title, .format-video .entry-title, 
+	.format-quote .entry-title, .format-gallery .entry-title, .format-status .entry-title,
+	.format-link .entry-title, .format-audio .entry-title, .format-chat .entry-title { font-size:2.5em; line-height: 1.225;
+    margin-bottom: 1.05em; }
+	
+}
